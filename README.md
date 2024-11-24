@@ -2,8 +2,7 @@
 
 <h3 align="center">I'm a passionate fullstack developer</h3>
 
-- 🌱 I’m a professional Full-Stack Developer/specializing in Back-End.
-<!-- - 🔭 My prominent projects are a [Bugtracker](https://github.com/noahchernet/bugtracker), a fullstack web app and [GoldBolt](https://github.com/noahchernet/goldbolt-landing-page) a landing page. -->
+- 🌱 I’m a professional Full-Stack Developer/specializing in Back-End.Here is my [Portfolio](https://besufikadyilma.vercel.app/)
 
 ### 🛠 &nbsp;Languages and Tools
 <div align="center">
